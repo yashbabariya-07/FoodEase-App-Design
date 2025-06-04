@@ -1,16 +1,11 @@
-# food_app
+This is a Flutter-based mobile application focused entirely on the frontend design and user interface. The project demonstrates a clean and responsive UI using Flutter widgets without any backend integration or API functionality.
 
-A new Flutter project.
+## 🚀 Features
 
-## Getting Started
+- Fully implemented UI using Flutter
+- Custom widgets for various screens/components
+- Responsive design for different screen sizes
+- Navigation between screens/pages
+- Organized and readable code structure
+- No backend or API integration – purely frontend design
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
